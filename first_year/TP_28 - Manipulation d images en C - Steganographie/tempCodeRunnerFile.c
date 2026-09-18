@@ -1,0 +1,2 @@
+
+    printf("%d", img->haut);
